@@ -46,8 +46,8 @@ always @(posedge clk) begin Q=(T&(~Q))|((~T)&Q);
 Qbar=~Q;
 end endmodule
 ```
-Developed by:Ragasudha R
-RegisterNumber:24900684
+Developed by:THILLAIAJAY L
+RegisterNumber:24008308
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
